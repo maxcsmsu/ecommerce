@@ -10,3 +10,7 @@
 ```bash
 #Run project
 dotnet run --project ecommerce/ecommerce.csproj
+```
+
+## Start link
+http://localhost:5000 or https://localhost:5001
