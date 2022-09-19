@@ -1,9 +1,12 @@
-# Please edit ConnectionStrings MYSQL in ecommerce/appsetting.json file.
+## Overview
 
-# Database MySQL
-# Back End [.NET 6] Src  => ecommerce/
-# Front End [Nuxt.JS] Src => ecommerce/frontapp
+** Please edit ConnectionStrings MYSQL in ecommerce/appsetting.json file.
 
-Run project
+* Database MySQL
+* Back End [.NET 6] Src  => ecommerce/
+* Front End [Nuxt.JS] Src => ecommerce/frontapp
 
+## Getting Started
+```bash
+#Run project
 dotnet run --project ecommerce/ecommerce.csproj
